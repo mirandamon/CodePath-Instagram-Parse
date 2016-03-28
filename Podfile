@@ -3,6 +3,6 @@
 # Uncomment this line if you're using Swift
 use_frameworks!
 
-target 'ImmediatePhotoRecorder' do
+target 'Parstagram' do
     pod 'Parse'
 end
