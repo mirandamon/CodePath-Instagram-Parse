@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C2801B955117A8B44FAEE9AA086FB581420421E9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "376C15E3ABF78A10845520562FC717CC88836E1D" : 0,
+    "C2801B955117A8B44FAEE9AA086FB581420421E9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4F0BB6D-D2EF-4506-AA77-222A8FE17195",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "376C15E3ABF78A10845520562FC717CC88836E1D" : "",
+    "C2801B955117A8B44FAEE9AA086FB581420421E9" : "Parstagram\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ImmediatePhotoRecorder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ImmediatePhotoRecorder.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mirandamon\/CodePath-Instagram-Parse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "376C15E3ABF78A10845520562FC717CC88836E1D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dylan-james-smith\/ImmediatePhotoRecorder",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C2801B955117A8B44FAEE9AA086FB581420421E9"
+    }
+  ]
+}
