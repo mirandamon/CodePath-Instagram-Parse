@@ -1,6 +1,6 @@
 //
 //  FeedCell.swift
-//  ImmediatePhotoRecorder
+//  Parstagram
 //
 //  Created by Nathan Miranda on 3/6/16.
 //  Copyright © 2016 Miraen. All rights reserved.

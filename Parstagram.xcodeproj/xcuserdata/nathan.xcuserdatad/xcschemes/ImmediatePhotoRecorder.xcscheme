@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6838813C1C8B94FB0060D32D"
-               BuildableName = "ImmediatePhotoRecorder.app"
-               BlueprintName = "ImmediatePhotoRecorder"
-               ReferencedContainer = "container:ImmediatePhotoRecorder.xcodeproj">
+               BuildableName = "Parstagram.app"
+               BlueprintName = "Parstagram"
+               ReferencedContainer = "container:Parstagram.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6838813C1C8B94FB0060D32D"
-            BuildableName = "ImmediatePhotoRecorder.app"
-            BlueprintName = "ImmediatePhotoRecorder"
-            ReferencedContainer = "container:ImmediatePhotoRecorder.xcodeproj">
+            BuildableName = "Parstagram.app"
+            BlueprintName = "Parstagram"
+            ReferencedContainer = "container:Parstagram.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6838813C1C8B94FB0060D32D"
-            BuildableName = "ImmediatePhotoRecorder.app"
-            BlueprintName = "ImmediatePhotoRecorder"
-            ReferencedContainer = "container:ImmediatePhotoRecorder.xcodeproj">
+            BuildableName = "Parstagram.app"
+            BlueprintName = "Parstagram"
+            ReferencedContainer = "container:Parstagram.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6838813C1C8B94FB0060D32D"
-            BuildableName = "ImmediatePhotoRecorder.app"
-            BlueprintName = "ImmediatePhotoRecorder"
-            ReferencedContainer = "container:ImmediatePhotoRecorder.xcodeproj">
+            BuildableName = "Parstagram.app"
+            BlueprintName = "Parstagram"
+            ReferencedContainer = "container:Parstagram.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,6 +1,6 @@
 //
 //  FeedViewController.swift
-//  ImmediatePhotoRecorder
+//  Parstagram
 //
 //  Created by Nathan Miranda on 3/26/16.
 //  Copyright © 2016 Miraen. All rights reserved.
@@ -95,7 +95,7 @@ class FeedViewController: UIViewController, UITableViewDataSource, UITableViewDe
         
         let username = UILabel(frame: CGRect(x: 70, y: 25, width: 200, height: 20))
         username.text = user.username
-        username.font = UIFont(name: "Chalkduster", size: 14)
+        username.font = UIFont(name: "Helvetica Neue", size: 14)
         
         headerView.addSubview(username)
         headerView.addSubview(profileImageView)
@@ -126,10 +126,8 @@ class FeedViewController: UIViewController, UITableViewDataSource, UITableViewDe
                 if let completion = completion {
                     completion()
                 }
-                print("By the power of data, I have the DATA")
 //                self.tabBarController?.selectedIndex = 0
             } else {
-                print("requestData find objets error")
             }
         }
     }

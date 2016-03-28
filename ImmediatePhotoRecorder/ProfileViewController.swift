@@ -1,6 +1,6 @@
 //
 //  ProfileViewController.swift
-//  InstaScratch
+//  Parstagram
 //
 //  Created by Nathan Miranda on 3/5/16.
 //  Copyright © 2016 Miraen. All rights reserved.
@@ -34,7 +34,7 @@ class ProfileViewController: UIViewController, UIImagePickerControllerDelegate, 
         profileImageButton.layer.cornerRadius = profileImageButton.frame.width/2
 
         usernameLabel.text = user?.username
-        usernameLabel.font = UIFont(name: "Chalkduster", size: 24)
+        usernameLabel.font = UIFont(name: "Helvetica Neue", size: 24)
         
         let imageFile = user!["profile"] as? PFFile
         imageFile?.getDataInBackgroundWithBlock({ (data, error) -> Void in

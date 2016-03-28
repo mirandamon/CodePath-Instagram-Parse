@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ImmediatePhotoRecorder
+//  Parstagram
 //
 //  Created by Nathan Miranda on 3/25/16.
 //  Copyright © 2016 Miraen. All rights reserved.
